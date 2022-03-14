@@ -1,0 +1,10 @@
+---
+layout: blog.11ty.js
+title: How to Publish Your Content to the cloud
+description: This post describes how to publish to this blog step by step
+hero: https://images.unsplash.com/photo-1640271443625-3276ed8f62b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80
+heroCropMode: bottom
+heroColor: dark
+---
+
+Hello welcome to the cloud!
